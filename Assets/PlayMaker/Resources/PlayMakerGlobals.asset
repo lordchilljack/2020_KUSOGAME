@@ -134,6 +134,12 @@ MonoBehaviour:
       showInInspector: 0
       networkSync: 0
       value: 0
+    - useVariable: 1
+      name: 
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 0
     intVariables:
     - useVariable: 1
       name: 
@@ -177,6 +183,12 @@ MonoBehaviour:
       showInInspector: 0
       networkSync: 0
       value: 3
+    - useVariable: 1
+      name: "\u5269\u9918\u6642\u9593"
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 60
     boolVariables: []
     stringVariables:
     - useVariable: 1
@@ -204,6 +216,7 @@ MonoBehaviour:
     enumVariables: []
     categories:
     - 
-    variableCategoryIDs: 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+    variableCategoryIDs: 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
   events:
   - "\u7372\u5F97\u734E\u52F5"
+  - "\u6263\u8840"
