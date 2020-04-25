@@ -382,7 +382,7 @@ MonoBehaviour:
       isGlobal: 0
     - name: "\u6263\u8840"
       isSystemEvent: 0
-      isGlobal: 0
+      isGlobal: 1
     - name: "\u649E\u5230\u73A9\u5BB6"
       isSystemEvent: 0
       isGlobal: 0
